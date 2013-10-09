@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_recently_viewed'
-  s.version     = '1.1'
+  s.version     = '1.1.1'
   s.summary     = 'Adds recently viewed products to Spree'
   s.authors     = ['Roman Smirnov', 'Brian Quinn']
   s.email       = 'brian@railsdog.com'
